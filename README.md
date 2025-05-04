@@ -4,6 +4,13 @@
 
 This mobile app allows users to upload images or take pictures of skin lesions to perform a skin cancer scan. The app interacts with a backend API built with FastAPI to analyze the image and return results related to the likelihood of different types of skin cancer. The app displays the results and allows users to view detailed information, including urgency and an explanation of the scan.
 
+
+
+![image](https://github.com/user-attachments/assets/f70bc06d-26db-4949-80d1-c0afc46e0980)  ![image](https://github.com/user-attachments/assets/75cc07e7-1b92-462c-9cc5-81346c17ac09)
+![image](https://github.com/user-attachments/assets/1651a1b3-a917-4e3c-9d51-82e8064e03d5)
+
+
+
 ## Features
 
 - **Home Screen**: 
